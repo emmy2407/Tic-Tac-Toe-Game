@@ -1,0 +1,40 @@
+/*.name{
+	background-color: black;
+	width: 586px;
+	height: 60px;
+	color: orange;
+	font-size: 55px;
+	font-family: snap ITC;
+}*/
+/*body{
+	background: red;
+}*/
+td{
+	text-align: center;
+}
+.w{
+	background-color: black;
+	color: orange;
+	width: 100px;
+	height: 100px;
+	font-size: 60px;
+	font-family: century;
+
+}
+.w:hover{
+	background-color: grey;
+}
+#exit{
+	background-color: orange;
+	width: 200px;
+	height: 70px;
+	color: white;
+	font-size: 30px;
+	border: none;
+}
+#exit:hover{
+	background-color: white;
+	border: 3px solid black;
+	border-radius: 5px;
+	color: orange;
+}
